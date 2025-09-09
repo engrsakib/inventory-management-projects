@@ -3,6 +3,7 @@
 Last updated: 2025-09-08
 Document owner: Md. Nazmus Sakib
 
+
 ## Table of Contents
 
 - [Case Study: Revolutionizing Super Shop Inventory Management with a Modern Technology Stack](#case-study-revolutionizing-super-shop-inventory-management-with-a-modern-technology-stack)
